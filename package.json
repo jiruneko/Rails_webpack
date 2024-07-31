@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@rails/webpacker": "5.4.4",
+    "redux": "^5.0.1",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {
+    "mocha": "^10.7.0",
+    "webpack-dev-server": "^3"
+  }
+}
